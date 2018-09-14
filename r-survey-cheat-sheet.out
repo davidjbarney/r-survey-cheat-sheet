@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Reading \046 Exploring Data}{}% 1
+\BOOKMARK [1][-]{section.2}{Manipulating Data}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Recoding Data}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Merging Data}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Descriptive Statistics}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Summary Statistics}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Tabulations \046 Cross Tabulations}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.3}{Summary Statistics by Group}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.4}{Distributions}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Modeling}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{OLS Regression}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{Logistic Regression}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.3}{Ordinal Logistic Regression}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.4}{Multinomial Logistic Regression}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{survey Package}{}% 15
+\BOOKMARK [2][-]{subsection.5.1}{Weighted Tabulations}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.2}{Weighted Models}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.3}{Creating Post-Stratification Weights}{section.5}% 18
